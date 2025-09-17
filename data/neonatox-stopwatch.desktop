@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Cronómetro NeonatoX
+Comment=Un simple cronómetro con marcas de tiempo
+Exec=neonatox-stopwatch
+Icon=neonatox-stopwatch
+Terminal=false
+Type=Application
+Categories=Utility;GTK;
+Keywords=cronómetro;stopwatch;tiempo;marca;reloj;
+StartupNotify=false

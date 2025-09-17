@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="neonatox-stopwatch.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.734375"
+     inkscape:cx="38.828452"
+     inkscape:cy="46.861925"
+     inkscape:window-width="1360"
+     inkscape:window-height="715"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <!-- Fondo -->
+  <circle
+     cx="32"
+     cy="32"
+     r="28"
+     fill="#2c3e50"
+     id="circle1" />
+  <!-- Esfera del reloj -->
+  <circle
+     cx="32"
+     cy="32"
+     r="24"
+     fill="#ecf0f1"
+     id="circle2" />
+  <!-- Manecilla de minutos -->
+  <rect
+     x="31.54508"
+     y="13.539412"
+     width="2.2677824"
+     height="22.552301"
+     fill="#2c3e50"
+     rx="1.1338912"
+     id="rect2"
+     style="stroke-width:1.3515" />
+  <!-- Manecilla de segundos (roja) -->
+  <rect
+     x="46.972927"
+     y="-12.975222"
+     width="1.1338912"
+     height="16.108788"
+     fill="#e74c3c"
+     rx="0.56694561"
+     id="rect3"
+     style="stroke-width:1.3515"
+     transform="rotate(43.442484)" />
+  <!-- Marca de tiempo (banderita de "lap") -->
+  <!-- Bordes -->
+  <circle
+     cx="32"
+     cy="32"
+     r="28"
+     fill="none"
+     stroke="#34495e"
+     stroke-width="2"
+     id="circle3" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#0000cc;stroke:#d45500"
+     x="24.899626"
+     y="43.171974"
+     id="text3"><tspan
+       sodipodi:role="line"
+       id="tspan3"
+       x="24.899626"
+       y="43.171974" /></text>
+</svg>
