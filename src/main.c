@@ -142,7 +142,7 @@ void activate_about(GtkButton *button, gpointer user_data) {
     (void)button;
     AppData *app = (AppData *)user_data;
 
-    const gchar *authors[] = { "Equipo NeonatoX", NULL };
+    const gchar *authors[] = { "Carlos Sánchez", NULL };
 
     gtk_show_about_dialog(
         GTK_WINDOW(app->window),
@@ -150,7 +150,7 @@ void activate_about(GtkButton *button, gpointer user_data) {
         "version", "1.0.0",
         "copyright", "© 2025 NeonatoX",
         "comments", "Un cronómetro simple con marcas de tiempo.",
-        "website", "https://neonatox.example.com",
+        "website", "https://neonatox.github.io",
         "website-label", "Sitio web de NeonatoX",
         "authors", authors,
         "logo-icon-name", "neonatox-stopwatch",
