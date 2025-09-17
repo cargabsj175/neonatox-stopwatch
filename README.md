@@ -95,7 +95,7 @@ Se abrirá la ventana principal del cronómetro.
 
 ## 📄 Licencia
 
-Este proyecto está licenciado bajo la **MIT License** – puedes usarlo, modificarlo y distribuirlo libremente.  
+Este proyecto está licenciado bajo la **GNU General Public License v3.0** – puedes usarlo, modificarlo y distribuirlo libremente.  
 
 ---
 
